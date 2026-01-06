@@ -46,13 +46,6 @@ and demonstrate skills in **data modeling, DAX, and dashboard design**.
 
 ---
 
-## 📂 Repository Contents
-- `Dashboard/` → Power BI (.pbix) file  
-- `Screenshots/` → Dashboard slide screenshots  
-- `Data/` → Raw sample data used in the project  
-
----
-
 ## 📌 Notes
 - This project uses **sample/dummy data** for learning and portfolio purposes.
 - The builder name **"Shivshakti Builders"** and logo are used only for demonstration.
